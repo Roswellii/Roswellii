@@ -77,13 +77,17 @@ CurbMapping 是一种面向低成本清扫车的 SLAM 方法，通过利用历�
 这篇文章主要描述了算法研究的场景：通过控制场景，给出更多信息，辅助端侧感知。
 
 
-### 天门山99道弯竞速挑战赛
+### 天门山99道弯竞速挑战赛&扫地车视觉贴边
 *2025年3月 -- 至今*
 
-<img width="342" height="226" alt="image" src="https://github.com/user-attachments/assets/b65a7d48-425c-4993-9eb0-49aa0e5d1778" />
+[收集数据中···](https://www.xiaohongshu.com/discovery/item/68a9033a000000001b01d6e8?source=webshare&xhsshare=pc_web&xsec_token=ABJPESFPZpxIgYImuGPLlRJYTpq5nestCiSuy52Hrj2Ro=&xsec_source=pc_share)
 
+我们计划使用纯视觉技术，实现PIX底盘无人车在天门山99道弯山路的安全运行。目前完成了二轮lgsvl下的仿真赛，并在天门山现场收集了实地数据。lgsvl的环境和实地有很大不同，实际上实地运行预计不会高于30km/h。然而导师还没批买底盘经费，后面大概率是整合到扫地车的纯视觉中。
 
-我们计划使用纯视觉技术，实现PIX底盘无人车在天门山99道弯山路的安全运行。目前完成了二轮lgsvl下的仿真赛，并在天门山现场收集了实地数据。lgsvl的环境和实地有很大不同，实际上实地运行预计不会高于30km/h。
+[扫地车单目视觉测试](https://www.bilibili.com/video/BV1iJb7zeELX/)
+
+<img width="557" height="211" alt="image" src="https://github.com/user-attachments/assets/20c6c838-231e-40d6-934a-cae463fc9390" />
+<img width="497" height="413" alt="image" src="https://github.com/user-attachments/assets/3c80a9bf-1f5f-43fd-a203-0fc4527d6593" />
 
 
 
@@ -101,6 +105,9 @@ CurbMapping 是一种面向低成本清扫车的 SLAM 方法，通过利用历�
 杭州天富德泰信息技术有限公司  
 *2025年3月 -- 2025年5月*
 
+<img width="712" height="481" alt="image" src="https://github.com/user-attachments/assets/70eee830-ed51-4350-9f3e-ffe99a0ce5e7" />
+
+<img width="249" height="299" alt="image" src="https://github.com/user-attachments/assets/896dbbbd-be9d-4a5f-add7-24b5890d52fe" />
 
 
 使用线控底盘，选配激光雷达、工控机，组成一套基于ROS的移动平台。在此基础上，开发了建图、定位、导航系统，连接公司的ERP平台、实现生产管理调度，实现了工厂车间的定点载人巡检功能。项目已完成交付。
@@ -110,12 +117,18 @@ CurbMapping 是一种面向低成本清扫车的 SLAM 方法，通过利用历�
 
 *2025年3月 -- 至今*
 
+<img width="260" height="258" alt="image" src="https://github.com/user-attachments/assets/4cae4ece-7d5b-46d1-866a-c3a9be71740c" />
+
+
 基于序列化点云，将道路拓扑结构融合到激光雷达语义分割任务中，使得稀疏、远距离下的点云分类更加准确。目前在nusc上已有性能提升，尚在进一步优化。未来还将引入丰富的先验信息，比如其他车辆、施工区域等。
 
 
 ### SmartKit: User-Friendly Robot with Multiple Operating Systems
 
 2024年3月 IROS2024 二作
+
+<img width="449" height="338" alt="image" src="https://github.com/user-attachments/assets/215cb2a1-0303-4e55-b5ad-bef3586ca5f3" />
+
 
 一种面向移动机器人的混合关键性系统（MCS）。通过虚拟化技术实现高效的硬件利用，SmartKit 能够在保障安全的前提下同时执行不同关键性的任务。我主要负责实验环节。
 
@@ -128,6 +141,9 @@ CurbMapping 是一种面向低成本清扫车的 SLAM 方法，通过利用历�
 ### 覆盖汽车全场景安全的电控单元软件自动化测试验证工具
 
 *2023年11月 -- 2025年5月 | 负责人（国家重点研发项目）*
+
+<img width="422" height="329" alt="image" src="https://github.com/user-attachments/assets/03f1d721-9134-422f-aedd-1bcf08f5b05c" />
+
 
 开发汽车 ECU 智能检测软件平台，开发了 ASAM 协议下的检测系统，与研华、NI 等厂家的 HIL 设备对接。此外，负责项目文档撰写、结题答辩等工作。
 
