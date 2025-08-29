@@ -48,7 +48,7 @@ College of Computer Science and Technology, Zhejiang University
 
 
 ## 浙江大学期间
-在浙大直博期间，我的大量工作都是围绕导师公司的无人扫地车（https://www.techinao.com）开展的。
+在浙大直博期间，我的大量工作都是围绕导师公司的[无人扫地车](https://www.techinao.com)
 
 刚入学时，我与公司团队整理了无人清洁车的系统框架，使得系统达到量产状态，将系统迁移到更低成本的x86工控机上；之后我负责维护一年的SLAM、路径规划、通讯的场景适配，面向更大场景的业务需求，牵头完成了RTK定位导航、fastlio建图系统、大场景可视化性能优化、任务组合模块的开发。
 
