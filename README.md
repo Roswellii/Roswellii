@@ -60,11 +60,17 @@ College of Computer Science and Technology, Zhejiang University
 
 2025年10月 CAA2025（中国自动化大会）
 
+<img width="443" height="169" alt="image" src="https://github.com/user-attachments/assets/3327853d-0e23-429f-8043-216f3e1ed264" />
+
+
 CurbMapping 是一种面向低成本清扫车的 SLAM 方法，通过利用历史数据重建盲区、过滤动态物体、保留静态路缘用于规划，并结合方差动态加权里程计提升运动估计精度。实验证明该方法在有限传感器和计算资源下显著提升了地形感知和导航安全性。
 
 ### Dedicated Lanes for Intelligent and Connected Vehicles in Mixed Traffic
 
 2025年8月 CIVS2025（第三届CCF智能汽车学术年会）
+
+<img width="342" height="226" alt="image" src="https://github.com/user-attachments/assets/649a475d-a08e-46f4-b25f-3013724b0ce3" />
+
 
 提出一种 车–路–云–人（VRCH）一体化架构，用于在混合交通环境下分阶段部署智能网联汽车（ICV）系统。该架构通过分布式基础设施和云端重新分配决策任务，以减轻车载负担，同时保证安全、效率和信任。论文提出了 专用自动驾驶车道（DALs）分阶段部署路线图，包含数字凭证接入与行驶中模式切换机制，并强调人在环的人机交互。未来工作包括试点区域部署、基础设施协同设计和场景化验证。
 
@@ -74,6 +80,9 @@ CurbMapping 是一种面向低成本清扫车的 SLAM 方法，通过利用历�
 ### 天门山99道弯竞速挑战赛
 *2025年3月 -- 至今*
 
+<img width="342" height="226" alt="image" src="https://github.com/user-attachments/assets/b65a7d48-425c-4993-9eb0-49aa0e5d1778" />
+
+
 我们计划使用纯视觉技术，实现PIX底盘无人车在天门山99道弯山路的安全运行。目前完成了二轮lgsvl下的仿真赛，并在天门山现场收集了实地数据。lgsvl的环境和实地有很大不同，实际上实地运行预计不会高于30km/h。
 
 
@@ -82,12 +91,17 @@ CurbMapping 是一种面向低成本清扫车的 SLAM 方法，通过利用历�
 杭州天富德泰信息技术有限公司  
 *2025年6月 -- 至今*
 
+<img width="791" height="276" alt="image" src="https://github.com/user-attachments/assets/2e06eaf9-809d-4bd1-ba38-0873a3201463" />
+
+
 针对印染工厂布车数量大、编号涂写乱而导致的运输管理难题，提出了基于工厂现有的500台摄像头实现布车编号识别与定位的方案，基于深度学习、多模态大模型技术，将编号定位接入ERP平台。目前已完成10台摄像头的测试。
 
 
 ### 印染工厂载人巡检移动平台
 杭州天富德泰信息技术有限公司  
 *2025年3月 -- 2025年5月*
+
+
 
 使用线控底盘，选配激光雷达、工控机，组成一套基于ROS的移动平台。在此基础上，开发了建图、定位、导航系统，连接公司的ERP平台、实现生产管理调度，实现了工厂车间的定点载人巡检功能。项目已完成交付。
 
