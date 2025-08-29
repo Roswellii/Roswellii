@@ -76,19 +76,25 @@ CurbMapping 是一种面向低成本清扫车的 SLAM 方法，通过利用历�
 
 这篇文章主要描述了算法研究的场景：通过控制场景，给出更多信息，辅助端侧感知。
 
+### 扫地车视觉贴边
 
-### 天门山99道弯竞速挑战赛&扫地车视觉贴边
 *2025年3月 -- 至今*
 
-[收集数据中···](https://www.xiaohongshu.com/discovery/item/68a9033a000000001b01d6e8?source=webshare&xhsshare=pc_web&xsec_token=ABJPESFPZpxIgYImuGPLlRJYTpq5nestCiSuy52Hrj2Ro=&xsec_source=pc_share)
-
-我们计划使用纯视觉技术，实现PIX底盘无人车在天门山99道弯山路的安全运行。目前完成了二轮lgsvl下的仿真赛，并在天门山现场收集了实地数据。lgsvl的环境和实地有很大不同，实际上实地运行预计不会高于30km/h。然而导师还没批买底盘经费，后面大概率是整合到扫地车的纯视觉中。
+在西安辅道与西湖白堤运行时，我们遇到了大场景slam不稳定的问题。因此启动了结构化路面下的视觉贴边研究。目前已经完成了moge2+seg算法的验证。接下去，正在朝速度优化和端到端控制方向推进。
 
 [扫地车单目视觉测试](https://www.bilibili.com/video/BV1iJb7zeELX/)
 
 <img width="557" height="211" alt="image" src="https://github.com/user-attachments/assets/20c6c838-231e-40d6-934a-cae463fc9390" />
 <img width="497" height="413" alt="image" src="https://github.com/user-attachments/assets/3c80a9bf-1f5f-43fd-a203-0fc4527d6593" />
 
+
+
+### 天门山99道弯竞速挑战赛
+*2025年3月 -- 至今*
+
+[收集数据中···](https://www.xiaohongshu.com/discovery/item/68a9033a000000001b01d6e8?source=webshare&xhsshare=pc_web&xsec_token=ABJPESFPZpxIgYImuGPLlRJYTpq5nestCiSuy52Hrj2Ro=&xsec_source=pc_share)
+
+我们计划使用纯视觉技术，实现PIX底盘无人车在天门山99道弯山路的安全运行。目前完成了二轮lgsvl下的仿真赛，并在天门山现场收集了实地数据。我们将于10月开始线下比赛。
 
 
 ### 印染工厂视觉的布车定位系统
