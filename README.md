@@ -9,6 +9,7 @@ College of Computer Science and Technology, Zhejiang University
 
 [BiliBili](https://space.bilibili.com/53309716)
 
+wx：180_72926_017 （去掉下划线
 
 
 ## 🎓 教育背景
