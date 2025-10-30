@@ -57,9 +57,13 @@ wx：180_72926_017 （去掉下划线
 
 ### 科技部“新能源汽车”重点专项项目“汽车电控单元关键工具链开发”项目
 2025年10月结项
+
+
 <img width="400" height="733" alt="image" src="https://github.com/user-attachments/assets/dd881d75-100e-44c6-8d9d-907d4d44f610" />
 
-![7f1ffad92b5f6f6c93f0b089e24395f](https://github.com/user-attachments/assets/6e96f4c2-88f7-40b9-a9e8-b09b8038ec78)
+<img width="403" height="879" alt="image" src="https://github.com/user-attachments/assets/688380f1-d2c8-4bfd-a46d-ad200f6f0cc0" />
+
+
 
 作为子课题参与单位，我主要牵头完成ECU智能检测工具的开发与合并，完成了HIL机柜的线下调试。在北航现场期间，我负责完成子课题展示与答辩。最后阶段，我与项目组青年教师团队一起参与了全项目演示汇报的“难题-思路-解法-效果-指标”闭环逻辑梳理，完成了整个项目PPT最终冲刺优化。
 
