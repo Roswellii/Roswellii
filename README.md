@@ -57,7 +57,7 @@ wx：180_72926_017 （去掉下划线
 
 ### 科技部“新能源汽车”重点专项项目“汽车电控单元关键工具链开发”项目
 2025年10月结项
-<img width="898" height="733" alt="image" src="https://github.com/user-attachments/assets/dd881d75-100e-44c6-8d9d-907d4d44f610" />
+<img width="400" height="733" alt="image" src="https://github.com/user-attachments/assets/dd881d75-100e-44c6-8d9d-907d4d44f610" />
 
 ![7f1ffad92b5f6f6c93f0b089e24395f](https://github.com/user-attachments/assets/6e96f4c2-88f7-40b9-a9e8-b09b8038ec78)
 
